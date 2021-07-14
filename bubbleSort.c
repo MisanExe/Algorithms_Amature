@@ -23,9 +23,9 @@ int main()
 }
 
 /*program to swap data
-  The swap program takes two variables and swaps them 
+  The swap funtion takes two variables and swaps them. 
   The variables are pointers because we are trying to 
-  swap the content of the particular memory address
+  swap the content of the memory address
 */
 
 void swap(int *c,int *d)
@@ -41,7 +41,7 @@ void swap(int *c,int *d)
   __The algorithm takes two variables, Array 
   and array size. 
   __________________________________________
-  The algorithm conatinas a nestsed for loop. 
+  The algorithm contains a nested for loop. 
   it continues to run until it has gone 
   through all the contents of the array.
   __________________________________________
